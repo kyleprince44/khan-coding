@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+       <style>
+           
+           h1 {
+          
+           
+           
+          
+           color: green;
+           
+           }
+           
+           p {
+           
+           color:blue;
+           
+           } 
+           
+       </style>
+   
+   
+    </head>
+    <body>
+
+        <h1>Merry Christmas</h1>
+        
+        <img src='https://www.kasandbox.org/programming-images/creatures/Hopper-Happy.png' width="300"  height= "100">
+   
+        
+        <h2>Dear Isaac,</h2>
+       
+      
+        <p>Merry christmas i hope you enjoy youyr holidays and your vacation if you happen to take one enjoy all the food and desserts and most importantly enjoy your time of rest!
+        <p>Sincerly, Kyle
+    </body>
+</html>
